@@ -2,3 +2,26 @@
     margin: 0;
     padding: 0;
 }
+
+header {
+    background-color: blueviolet;
+    display: flex;
+    padding: 10%;
+}
+
+main {
+    background-color: cyan;
+    height: 80vh;
+    padding: 2%;
+}
+
+footer {
+    background-color: darkslategrey;
+}
+
+aside{
+     width: 12vw;
+     background-color: aqua;
+     flex-direction: column;
+}
+
